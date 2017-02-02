@@ -48,6 +48,7 @@ a{
 	margin: 20px;
 }
 h1{
+	font-size: 30px;
 	color: #696969;
 	font-family: "Georgia", "Times New Roman", Times, serif;
 }
@@ -64,7 +65,7 @@ h3{
 }
 
 .container{
-	width: 650px;
+	width: 270px;
 	border: solid;
 	border-color: #696969;
 	min-width: 100%;
@@ -183,10 +184,10 @@ h3{
 #github-image,
 #stackoverflow-image{
 	display: inline;
-	height: 40px;
-	width: 40px;
-	margin: 0 auto;
-	padding: 0 auto;
+	height: 30px;
+	width: 30px;
+	margin: 10px auto;
+	padding: 10px auto;
 
 }
 
